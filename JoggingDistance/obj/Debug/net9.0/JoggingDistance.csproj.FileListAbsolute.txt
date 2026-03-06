@@ -1,0 +1,28 @@
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.exe
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.deps.json
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.runtimeconfig.json
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.pdb
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfoInputs.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfo.cs
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.csproj.CoreCompileInputs.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\refint\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.pdb
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.genruntimeconfig.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\ref\JoggingDistance.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.exe
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.deps.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.runtimeconfig.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfoInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfo.cs
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.csproj.CoreCompileInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\refint\JoggingDistance.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.genruntimeconfig.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\JoggingDistance\JoggingDistance\obj\Debug\net9.0\ref\JoggingDistance.dll
